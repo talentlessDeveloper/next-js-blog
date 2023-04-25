@@ -14,7 +14,6 @@ export default function App({ Component, pageProps }: AppProps) {
             <li>
               <Link href='posts/first-post'>First Post</Link>
             </li>{" "}
-            <li>Two</li> <li>Three</li>
           </ul>
         </nav>
       </header>
